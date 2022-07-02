@@ -41,7 +41,7 @@ const Calculator = () => {
       }}
     > className="calci m-5">
       {/* <div>
-          <h2>Calculator</h2>
+          <h2>Calculator</h2>git
       </div> */}
 
       <div className='calciContainer'>
