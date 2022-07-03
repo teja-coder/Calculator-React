@@ -39,7 +39,7 @@ const Calculator = () => {
         alignItems: 'center',
         height: '9vh'
       }}
-    > className="calci m-5">
+    >
       {/* <div>
           <h2>Calculator</h2>git
       </div> */}
